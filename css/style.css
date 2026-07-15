@@ -1,0 +1,9 @@
+.headshot {
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
+
+.icon-square{
+    border-radius: .75rem;
+}
